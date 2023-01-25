@@ -1,4 +1,4 @@
-<div align="center">### Hi there 👋</div>
+### Hi there 👋
 
 <!--
 **Erica-Ku/Erica-Ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erica-Ku&show_icons=true&theme=gruvbox_light)
+<div align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erica-Ku&show_icons=true&theme=gruvbox_light) </div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erica-Ku&layout=compact&theme=gruvbox_light)
