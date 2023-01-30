@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🖥⌨🖱&fontAlign=70)
-
+#
+Hello! I'm Erica 🥰
+#
 <div align="center"> 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Erica-Ku&theme=solarized-light&show_icons=true" width="42%" />
