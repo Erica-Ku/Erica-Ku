@@ -5,7 +5,7 @@
 <div align="center">
   <h3>Hello! I'm Erica 🥰</h3>
   <p>
-    <a href="https://github.com/Erica-Ku"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FErica-            Ku&count_bg=%23FFAFCC&title_bg=%23E800DC&icon=&icon_color=%23FFFFFF&title=%F0%9F%92%8C&edge_flat=false"/></a>
+    <a href="https://github.com/Erica-Ku"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FErica-Ku&count_bg=%23FFD182&title_bg=%23F78500&icon=&icon_color=%23E7E7E7&title=%F0%9F%92%8C+++&edge_flat=false"/></a>
   </p>
 </div>
 <br>
