@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🖥⌨🖱&fontAlign=70)
+<center>![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🖥⌨🖱&fontAlign=70)</center>
 #
-Hello! I'm Erica 🥰
+<center>Hello! I'm Erica 🥰</center>
 #
 <div align="center"> 
 <a href="s">
