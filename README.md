@@ -1,4 +1,4 @@
-<div align="center"> Hi😊 I'm Erica!🥰 </div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=random&height=200&section=header&text=Hello&fontSize=90" /></div>
 
 <!--
 **Erica-Ku/Erica-Ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
