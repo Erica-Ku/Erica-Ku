@@ -10,10 +10,10 @@
 </div>
 <br>
 <div align="center">
-  <a href="s">
+  <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=Erica-Ku&theme=solarized-light&show_icons=true" width="42%" />
   </a>
-  <a href="s">
+  <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erica-Ku&exclude_repo=dkssud8150.github.io&layout=compact&theme=solarized-light" />
   </a>
 </div>
