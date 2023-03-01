@@ -10,14 +10,12 @@
 </div>
 <br>
 <div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=Erica-Ku&theme=solarized-light&show_icons=true" width="42%" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erica-Ku&exclude_repo=dkssud8150.github.io&layout=compact&theme=solarized-light" />
-  </a>
+  ![Erica-Ku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erica-Ku&show_icons=true&theme=solarized-light)
 </div>
 <br>
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erica-Ku&layout=compact&theme=solarized-light)
+</div>
 
 <!--
 **Erica-Ku/Erica-Ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
