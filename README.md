@@ -10,11 +10,11 @@
 </div>
 <br>
 <div align="center">
-  ![Erica-Ku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erica-Ku&show_icons=true&theme=solarized-light)
+  !(https://github-readme-stats.vercel.app/api?username=Erica-Ku&show_icons=true&theme=solarized-light)
 </div>
 <br>
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erica-Ku&layout=compact&theme=solarized-light)
+  !(https://github-readme-stats.vercel.app/api/top-langs/?username=Erica-Ku&layout=compact&theme=solarized-light)
 </div>
 
 <!--
