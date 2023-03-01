@@ -10,11 +10,8 @@
 </div>
 <br>
 <div align="center">
-  !Anurag's GitHub stats(https://github-readme-stats.vercel.app/api?username=Erica-Ku&show_icons=true&theme=solarized-light) 
-</div>
-<br>
-<div align="center">
-  [![top-langs(https://github-readme-stats.vercel.app/api/top-langs/?username=Erica-Ku&layout=compact&theme=solarized-light)]]
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Erica-Kus&show_icons=true&theme=solarized-light)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erica-Kus&layout=compact&theme=solarized-light)
 </div>
 
 <!--
