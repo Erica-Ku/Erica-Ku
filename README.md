@@ -11,6 +11,7 @@
 <br>
 <div align=center>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Erica-Ku&show_icons=true&theme=solarized-light)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erica-Ku&layout=compact&theme=solarized-light)](https://github.com/metleeha)
 </div>
 
