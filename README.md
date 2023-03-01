@@ -10,7 +10,7 @@
 </div>
 <br>
 <div align=center>
-  [![Erica-Ku's stats(https://github-readme-stats.vercel.app/api?username=Erica-Ku&show_icons=true&theme=solarized-light)]]
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erica-Ku&show_icons=true&theme=solarized-light) 
 </div>
 <br>
 <div align=center>
