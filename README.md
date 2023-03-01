@@ -9,9 +9,13 @@
   </p>
 </div>
 <br>
+<div align=center>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Erica-Ku&show_icons=true&theme=solarized-light) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erica-Ku&layout=compact&theme=solarized-light)](https://github.com/metleeha)
   
-  ![Anurag's github stats] (https://github-readme-stats.vercel.app/api?username=Erica-Kus&show_icons=true&theme=solarized-light)  
-  ![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=Erica-Kus&layout=compact&theme=solarized-light)
+</div>
 
 <!--
 **Erica-Ku/Erica-Ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
