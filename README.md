@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>&nbsp;<br>
-  <img src="https://img.shields.io/badge/JSP-E4637C?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JSP-E4637C?style=flat-square&logo=JSP&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
