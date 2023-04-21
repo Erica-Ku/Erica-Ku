@@ -9,7 +9,7 @@
   </p>
 </div>
 <br>
-<div alige="center">
+<div align="center">
   
   <h3>Tech Stack</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
