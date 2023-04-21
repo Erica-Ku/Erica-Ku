@@ -10,6 +10,7 @@
 </div>
 <br>
 <div align="center">
+  
   <h3>🤩Tech Stack💝</h3>
   <h4>🏆Platforms & Languages🏆</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
@@ -31,6 +32,7 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>&nbsp
+  
 </div>
 <br>
 <br>
