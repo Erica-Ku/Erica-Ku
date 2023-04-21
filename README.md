@@ -3,19 +3,21 @@
 </div>
 <br>
 <div align="center">
-  <h3>Hello! I'm Erica Ku (Ku minji) 🥰</h3>
+  
+  <h3>Hello! I'm Erica Ku (Ku minji) 🥰😊🤩</h3>
   <p>
     <a href="https://github.com/Erica-Ku"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FErica-Ku&count_bg=%23FFD182&title_bg=%23F78500&icon=&icon_color=%23E7E7E7&title=%F0%9F%92%8C+++&edge_flat=false"/></a>
   </p>
+  
 </div>
 <br>
 <div align="center">
   
-  <h3>🤩Tech Stack💝</h3>
+  <h3>💝Tech Stack💝</h3>
   <h4>🏆Platforms & Languages🏆</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>&nbsp;
@@ -25,7 +27,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp;<br>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp;<br>
   
   <h4>🔨Tools🔨</h4>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>&nbsp
